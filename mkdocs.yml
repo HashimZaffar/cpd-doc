@@ -1,0 +1,14 @@
+site_name: My Project
+site_name: CPD365 User Guide
+site_description: Complete documentation for CPD365 – built for nurses, NDIS care workers, and student clinicians.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Dashboard: dashboard.md
+  - Features & Account: features.md
+  - Workflows & Tips: workflows.md
+  - FAQs: faq.md
+  - Support: support.md
