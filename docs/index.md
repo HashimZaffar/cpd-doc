@@ -1,17 +1,38 @@
-# Welcome to MkDocs
+# Getting Started with CPD365
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome! This guide will walk you through how to register, log in, and begin using CPD365.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 📝 Step 1: Create Your Account
 
-## Project layout
+1. Visit [https://cpd365.com.au](https://cpd365.com.au)
+2. Click **Account** in the top-right corner, then select **Sign Up**
+3. Fill in your:
+   - Name
+   - Email address
+   - Profession or role (e.g. Support Worker, Student Nurse)
+   - Password (create a secure one)
+4. Agree to terms and click **Create Account**
+5. Check your email for a verification link and confirm
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## 🔑 Step 2: Log In to Your Dashboard
+
+1. Go to [https://cpd365.com.au](https://cpd365.com.au)
+2. Click **Account > Login**
+3. Enter your email and password
+4. Click **Log In** to access your personalized learning dashboard
+
+---
+
+## 🚀 What You Can Do After Logging In
+
+- Explore courses relevant to your role
+- Track CPD hours and completions
+- Download certificates
+- Manage your account settings
+
+Need help? Visit the [Support](support.md) page.
+
